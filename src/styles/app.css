@@ -1,0 +1,43 @@
+.header-background-color {
+    background-color: #3ac79a;
+}
+.cart-icon {    
+    font-size: 25px;
+}
+.text-center {
+    text-align: center;
+}
+.mt-20 {
+    margin-top: 20px !important;
+}
+.p-20 {
+    padding: 20px !important;
+}
+.p-8 {
+    padding: 8px !important;
+}
+.p-12 {
+    padding: 12px !important;
+}
+.ant-card-with-box-shadow {
+    box-shadow: 0px 3px 5px 0px rgba(0, 0, 0, 0.1);
+}
+.product-title {
+    font-size: 20px !important;
+}
+.login-btn {
+    width: 160px !important;
+}
+.flex {    
+    display: flex;
+}
+.ml-10 {
+    margin-left: 10px !important;
+}
+
+@media (max-width: 640px) 
+{
+    .user-name{
+        display: none;
+    }
+}
